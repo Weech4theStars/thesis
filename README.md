@@ -1,1 +1,3 @@
-thesis
+Work for a W&M Honors thesis in Computer Science (advised by Prof. Deverick)
+
+The broad goal of my thesis is to algorithmically generate unique drone choreographies based on a provided song as input. Each synchronized drone choreography will use nine Bitcraze Crazyflie drones, the Bitcraze Loco Positioning System (LPS), and will not exceed five minutes. The choreography will be based on the song’s mood, tempo, valence, and other musical characteristics that can be found in Spotify’s musical analysis of that track. Each drone choreography will be unique and sync up the song as the song is played.
