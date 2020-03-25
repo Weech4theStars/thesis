@@ -1,0 +1,1 @@
+{"subversion": 2, "release": "2020.02", "fw_platform": "cf2", "version": 1, "files": {"cf2_nrf-2020.02.bin": {"release": "2020.02", "platform": "cf2", "type": "fw", "target": "nrf51", "repository": "crazyflie2-nrf-firmware"}, "cf2-2020.02.bin": {"release": "2020.02", "platform": "cf2", "type": "fw", "target": "stm32", "repository": "crazyflie-firmware"}}}
